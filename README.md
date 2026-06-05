@@ -1,4 +1,4 @@
-# Pattern Practice
+# Patterns-Printing
 
 This repository contains C++ programs for practicing common console pattern problems.
 
