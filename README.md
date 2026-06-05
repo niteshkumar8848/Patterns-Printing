@@ -5,7 +5,7 @@ This repository contains C++ programs for practicing common console pattern prob
 ## Folder Structure
 
 ```text
-PatternPractice/
+Patterns-Printing/
 ├── Hollow Diamond Pattern/
 ├── Square Pattern/
 └── Triangle Pattern/
@@ -19,7 +19,7 @@ PatternPractice/
 
 ## How to Compile and Run
 
-Use `g++` from the `PatternPractice` directory.
+Use `g++` from the `Patterns-Printing` directory.
 
 ```bash
 g++ "Triangle Pattern/All_Triangle_Pattern.cpp" -o triangle
